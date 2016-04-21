@@ -1,0 +1,26 @@
+/*Custom CSS for Boostrap Sandbox*/
+
+body {
+    font-family: 'Audiowide', cursive;
+}
+
+.logo_title {
+    margin-top: 10px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px;
+}
+
+.img-main {
+    margin: 10px;
+    box-shadow: 0 0 20px;
+    border-radius: 20px;
+}
+
+.img-bot {
+    box-shadow: 0 0 20px;
+    border-radius: 10px;
+}
+
+.dither {
+    color: gray;
+}
