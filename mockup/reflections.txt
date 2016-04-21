@@ -1,0 +1,35 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web 
+development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+---
+
+Your response goes here!
+  * What new skills have you learned?
+    I had forgotten that you can add spaces and linebreaks and HTML doesn't read it.  You need to add <br> and 
+    <p> to create formating line breaks. Also, searching documentation is key.
+  * What has been easy?
+    I already have a basic understanding of HTML so the paragraph, break, url, and hyperlink markup was pretty easy.
+  * What has been difficult?
+    According to the documentation provided with the lesson (https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
+    it looks like CSS is replacing some of the formating functions found in HTML.  I dont' have as much experience with CSS
+    so I had to look up the CSS methods for strikethrough etc.  Good info to have
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    Take my time and read the documenation. Don't give up.
+
+####
+Additions to this file:
+
+* How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+* What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+* Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+* How can you use the commands git log and git diff to view the history of files?
+
+* How might using version control make you more confident to make changes that could break something?
+
+* Now that you have your workspace set up, what do you want to try using Git for?
