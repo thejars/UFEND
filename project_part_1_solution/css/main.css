@@ -16,3 +16,20 @@ h1 {
 img {
   max-width: 100%;
 }
+
+flourish {
+    text-align: center;
+    border-style: solid;
+    font-size: 20em;
+    display:inline-block;
+    -webkit-transform:scale(3,1);
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
